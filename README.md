@@ -1,6 +1,6 @@
 # What I'm Working On
 
-#Comfort Proxy
+# Comfort Proxy
 A proxy website using tProxy as a backend
 Includes bookmarks
 Cute little new tab button that opens itself in new tab
@@ -10,7 +10,7 @@ Working on:
 Personal Comfort Proxy request page
 Website cencoring for the baddies
 
-#Personal Comfort Proxy
+# Personal Comfort Proxy
 Submit a request in comfort proxy
 Includes a personal glitch UV link
 Removed filter
