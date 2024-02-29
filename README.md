@@ -1,4 +1,5 @@
 # What I'm Working On
+This repo is just a file of all the projects I'm working on and the specifics
 
 # Comfort Proxy
 A proxy website using tProxy as a backend
